@@ -1,2 +1,2 @@
-# Auto
-Usando como base o projeto do livro da casa do código, foi criado uma simples aplicação que consulta e faz a gravação dos dados, assim como o tratamento de erros.
+# Projeto loja de Automovel.
+Usando como base o projeto do livro da casa do código, foi criado uma simples aplicação que consulta e a persistência dos dados para uma loja de auto.
